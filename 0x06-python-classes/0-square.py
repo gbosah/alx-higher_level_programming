@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""Square Class
+"""Defines a Square"""
 
-This class don't do anything for the moment
-"""
+"""This class don't do anything for the moment"""
+
 
 
 
