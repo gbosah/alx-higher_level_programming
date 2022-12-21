@@ -1,9 +1,8 @@
 #!/usr/bin/python3
-"""Defines a Square"""
+
+"""Defines a square"""
 
 
-
-class Square:
-
-"""This class don't do anything for the moment"""
-    pass
+Class Square:
+"""Empty class"""
+pass
